@@ -1,0 +1,11 @@
+bitstring==3.1.9
+colour-science==0.4.1
+imageio==2.19.5
+numpy==1.22.3
+opencv-python==4.5.5.64
+Pillow==9.2.0
+pycryptodome==3.15.0
+scipy==1.8.1
+sewar==0.4.5
+six @ file:///AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-110/six-1.15.0-py2.py3-none-any.whl
+typing_extensions==4.3.0
